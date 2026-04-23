@@ -97,7 +97,7 @@ engineer = {
 
 
 ---
-
+<!--
 ## Connect
 
 <p align="left">
@@ -113,5 +113,5 @@ engineer = {
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
+ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer"/>
